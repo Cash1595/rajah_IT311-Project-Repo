@@ -122,7 +122,7 @@
         </mxCell>
         <mxCell id="Mb-qoXPzU37wC8ymkV0u-38" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Mb-qoXPzU37wC8ymkV0u-36">
           <mxGeometry x="-0.1773" y="5" relative="1" as="geometry">
-            <mxPoint y="-1" as="offset" />
+            <mxPoint x="-5" y="7" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb-qoXPzU37wC8ymkV0u-24" value="Valid excuse?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;arcSize=11;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -169,7 +169,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mb-qoXPzU37wC8ymkV0u-49" value="Repeat offenses?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-525" y="750" width="130" height="100" as="geometry" />
+          <mxGeometry x="-525" y="730" width="130" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
